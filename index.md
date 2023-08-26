@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+Jonathan's Blog: Welcome to my blog
 ---
 
+Here we will discuss random things
